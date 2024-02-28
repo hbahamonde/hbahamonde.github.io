@@ -5,3 +5,5 @@ _site/
 Gemfile.lock
 
 _includes/.DS_Store
+
+.Rhistory

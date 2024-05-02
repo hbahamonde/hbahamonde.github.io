@@ -29,13 +29,13 @@ redirect_from:
 
 ## In Preparation
 
-- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Being on the Losing side and Commitment to Democratic Principles: Experimental Evidence from New Democracies." **Experimental data collection done** (January 2024).
+- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Being on the Losing side and Commitment to Democratic Principles: Experimental Evidence from New Democracies." **Writting process** (May 2024).
 
-- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Authoritarian Legacies and Commitment to the 'Egalitarian Model of Democracy'." **Experimental data collection done** (January 2024).
+- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Creating Political Support for Tax Increases: A Vignette Experiment in Chile and Estonia." **Writting process** (May 2024).
 
-- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Creating Political Support for Tax Increases: A Vignette Experiment in Chile and Estonia'." **Experimental data collection done** (January 2024).
+- Hector Bahamonde and Inga Saikkonen. "Winners and Losers and Variations of Autocracy: The Finnish Case." **Experimental design in progress** (May 2024).
 
-- Hector Bahamonde and Aki Koivula. "Power To The People: Rising Inequality Levels and the Case of the Finns Party in Finland." **Writing process in progress**.
+- Hector Bahamonde and Aki Koivula. "Far-right Support in Finland: Bringing Income Inequality Back." **Writing process in progress** (May 2024).
 
 - Hector Bahamonde, Heikki Kaupi, Igor Kovac and Wilma Nissila. "Not Just Guns or Butter, but What Came First—Guns or Butter? Introducing GVAR to International Relations." <br/> [[Abstract]](https://github.com/hbahamonde/Bahamonde_Kovac/raw/master/abstract.txt)
 

@@ -18,7 +18,7 @@ I have presented / will be presenting at...
 
 
 #### European Political Science Association (EPSA)
-- Cologne, Germany: 2024: Panel: TBA.
+- Cologne, Germany: 2024: Panel: Political Economy of Policy Reform.
 - Glasgow, Scotland: 2023: Panel: The many dimension of evaluating candidates.
 - Prague, Czech Republic: 2022. Panel: Patronage & Accountability.
 
@@ -33,7 +33,7 @@ I have presented / will be presenting at...
 
 
 #### Nordic Latin American Research Network (NOLAN)
-- Copenhagen, Denmark: 2024. Panel: TBA.
+- Copenhagen, Denmark: 2024. Panel: Social Movements, Indigenous Governance, and the State.
 
 
 #### Society for Institutional & Organizational Economics (SIOE)
@@ -53,11 +53,6 @@ I have presented / will be presenting at...
 - San Francisco, CA: 2020. Panel: Change, Stability, and Hierarchy in International Orders.
 - Washington D.C.: 2019. Panel:  The Political Economy of Latin America. Chair and (full panel organizer).
 - Philadelphia, PA: 2016. Panel: Evaluations and Inferences in Campaign Environments.
-
-#### Nordic Latin American Research Network (NOLAN)
-
-- Copenhagen, Denmark: 2024. Panel: TBA.
-
 
 #### Latin American Studies Association (LASA)
 

@@ -1,17 +1,15 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching at the University of Turku"
 author_profile: true
 redirect_from:
   - /md/
   - /teaching.html
 ---
 
+## Current
 
-
-- Quantitative Methods (OLS): M.A. students, Spring 2022.  <a href="https://github.com/hbahamonde/OLS/raw/master/Bahamonde_OLS.pdf"><i class='fa fa-book fa'></i></a>
-
-- Experimental Social Science: M.A. students, Fall 2023; Fall 2024.  <a href="https://github.com/hbahamonde/Exp_Soc_Science/raw/main/Bahamonde_Exp_Soc_Sci.pdf"><i class='fa fa-book fa'></i></a>
+- Experimental Methods in Social Sciences. <a href="https://github.com/hbahamonde/Exp_Soc_Science/raw/main/Bahamonde_Exp_Soc_Sci.pdf"><i class='fa fa-book fa'></i></a>
 
 
 
@@ -24,6 +22,7 @@ redirect_from:
 	- Comparative Politics (Tulane University, S:2018). <a href="https://github.com/hbahamonde/Comparative_Politics_UGRAD/raw/master/Bahamonde_Comparative_Politics_Syllabus_UGRAD.pdf"><i class='fa fa-book fa'></i></a>
 
 2. **Methodology and Epistemology**:
+	- Quantitative Methods (OLS): Spring 2022.  <a href="https://github.com/hbahamonde/OLS/raw/master/Bahamonde_OLS.pdf"><i class='fa fa-book fa'></i></a>
 	- Quantitative Methods I: OLS (Universidad de O'Higgins).  <a href="https://github.com/hbahamonde/OLS/raw/master/Lectures/Spanish/Bahamonde_OLS_Spanish.pdf"><i class='fa fa-book fa'></i></a> in Spanish.
 	- Quantitative Methods II: MLE (Universidad de O'Higgins).  <a href="https://github.com/hbahamonde/MLE/raw/master/Lectures/Spanish/Bahamonde_MLE_Spanish.pdf"><i class='fa fa-book fa'></i></a> in Spanish.
 	- Intro to Social Sciences (Universidad de O'Higgins). <a href="https://github.com/hbahamonde/Intro_Ciencias_Sociales/raw/master/Bahamonde_Intro_Ciencias_Sociales.pdf"><i class='fa fa-book fa'></i></a> in Spanish.

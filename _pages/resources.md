@@ -5,10 +5,9 @@ author_profile: true
 ---
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/bahamonde" style="min-width:320px;height:700px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/bahamonde?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
-
 
 * There is *no* need for confirmation. I will receive an alert when you schedule a meeting with me. 
 * Briefly indicate the reason for the meeting. 

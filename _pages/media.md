@@ -9,7 +9,7 @@ redirect_from:
 
 - CNN Chile (May 18th 2022): On the relevance of Finland joining NATO.
 
-<a href="https://twitter.com/CNNChile/status/1527122195780186112?s=20&t=-tO34V0-IHexWmRUePwHJ/">
+<a href="https://x.com/CNNChile/status/1527122195780186112">
 <img src="/resources/cnn.jpg" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
 

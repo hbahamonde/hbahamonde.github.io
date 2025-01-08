@@ -6,10 +6,6 @@
    Default
    ========================================================================== */
 
-.sideback.sticky {
-    width: 300px; // Adjust this value as needed
-}
-
 .sidebar {
 
   -webkit-transform: translate3d(0, 0 , 0);
@@ -19,7 +15,6 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-width: 250px; // Define your desired width for larger screens
     @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;

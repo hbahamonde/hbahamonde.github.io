@@ -6,10 +6,11 @@
    Default
    ========================================================================== */
 
+.sideback.sticky {
+    width: 300px; // Adjust this value as needed
+}
 
 .sidebar {
-
-width: 350px; // Adjust this value as needed
 
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);

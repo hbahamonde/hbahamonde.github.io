@@ -7,6 +7,18 @@
    ========================================================================== */
 
 .sidebar {
+  width: 250px; // Adjust this value as needed
+}
+
+@include breakpoint($large) {
+  width: 250px; // Define your desired width for larger screens
+}
+
+@include breakpoint($x-large) {
+  width: 300px; // Optional, for extra-large screens
+}
+
+.sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 

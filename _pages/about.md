@@ -63,7 +63,7 @@ Research
     <tr>
       <td>
         <ul>
-          <li>TBA.</li>
+          <li>CEISAL, Paris (June 2-4, 2025).</li>
        </ul>
       </td>
     </tr>

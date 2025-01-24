@@ -32,7 +32,7 @@ Research
   <thead>
     <tr>
       <td align="left">
-        NEWS!
+        NEWS! And latest publication.
       </td>
     </tr>
   </thead>
@@ -42,7 +42,10 @@ Research
       <td>
         <ul>
           <li>
-            <a href="https://onlinelibrary.wiley.com/doi/10.1111/pops.12940">'Physical Appearance and Elections: An Inequality Perspective'</a> (with Outi Sarpila) has been published in Political Psychology.
+            <a href="https://onlinelibrary.wiley.com/doi/10.1111/pops.12940">Hector Bahamonde and Outi Sarpila (2024). "Physical Appearance and Elections: An Inequality Perspective." Political Psychology, 45.3, pp. 623-642.</a>
+            </li>
+            <li>
+              Currently I am accepting PhD students.
             </li>
         </ul>
       </td>

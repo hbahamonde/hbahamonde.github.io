@@ -66,6 +66,7 @@ Research
     <tr>
       <td>
         <ul>
+          <li>FPSA, Rovaniemi (April 14-16, 2025).</li>
           <li>CEISAL, Paris (June 2-4, 2025).</li>
        </ul>
       </td>

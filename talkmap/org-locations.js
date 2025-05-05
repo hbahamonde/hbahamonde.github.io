@@ -174,4 +174,16 @@ var addressPoints = [
     "Bergen, Norway",
       60.39798604545595, 5.322784822513619
   ],
+
+  // FPSA ROVANIEMI Finland, FPSA 2025
+  [
+    "Rovaniemi, Finland",
+      66.48539097049397, 25.715081790899013
+  ],
+
+  // CEISAL Paris France, CEISAL 2025
+  [
+    "Paris, France",
+      48.84718115126956, 2.35671981985241
+  ]
 ];

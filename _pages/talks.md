@@ -28,12 +28,19 @@ I have presented / will be presenting at...
 #### Nordic Sociological Association Conference (NSA)
 - Reykjavik, Iceland: 2022. Panel: Myths and realities of the Nordic welfare state.
 
+#### Finnish Political Science Association (FPSA)
+- Rovaniemi, Finland: 2025. Co-Chair and full panel co-organizer.
+
+
 #### Nordic Political Science Association Conference (NOPSA)
 - Bergen, Norway: 2024. Panel: Parties, Governments, and Policy Making.
 
 
 #### Nordic Latin American Research Network (NOLAN)
 - Copenhagen, Denmark: 2024. Panel: Social Movements, Indigenous Governance, and the State.
+
+#### Consejo Europeo para la Investigación en Ciencias Sociales de América Latina (CEISAL)
+- Paris, France: 2025. Co-Chair and full panel co-organizer.
 
 
 #### Society for Institutional & Organizational Economics (SIOE)
@@ -51,7 +58,7 @@ I have presented / will be presenting at...
 #### American Political Science Association (APSA)
 
 - San Francisco, CA: 2020. Panel: Change, Stability, and Hierarchy in International Orders.
-- Washington D.C.: 2019. Panel:  The Political Economy of Latin America. Chair and (full panel organizer).
+- Washington D.C.: 2019. Panel:  The Political Economy of Latin America. Chair and full panel organizer.
 - Philadelphia, PA: 2016. Panel: Evaluations and Inferences in Campaign Environments.
 
 #### Latin American Studies Association (LASA)

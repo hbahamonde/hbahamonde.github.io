@@ -25,15 +25,11 @@ redirect_from:
 
 ## Submitted, Under Review, Revise and Resubmit.
 
-- TBA.
+- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Losers' Consent and Anti-Systemic Protest: Experimental Evidence from Chile and Estonia." **Submitted** (Research and Politics).
 
 ## In Preparation
 
-- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Being on the Losing side and Commitment to Democratic Principles: Experimental Evidence from New Democracies." **Writting process** (May 2024).
-
 - Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Creating Political Support for Tax Increases: A Vignette Experiment in Chile and Estonia." **Writting process** (May 2024).
-
-- Hector Bahamonde and Inga Saikkonen. "Winners and Losers and Variations of Autocracy: The Finnish Case." **Experimental design in progress** (May 2024).
 
 - Hector Bahamonde and Aki Koivula. "Far-right Support in Finland: Bringing Income Inequality Back." **Writing process in progress** (May 2024).
 

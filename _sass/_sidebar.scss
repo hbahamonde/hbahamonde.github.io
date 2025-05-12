@@ -111,13 +111,9 @@ width: 300px; // Optional, for extra-large screens
 }
 
 .author__name {
-  margin: 0;
-
-  @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
+  margin: 0 !important;
 }
+
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;

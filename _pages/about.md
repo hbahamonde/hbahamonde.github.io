@@ -53,27 +53,6 @@ Research
   </tbody>
 </table>
 
-<table>
-  <thead>
-    <tr>
-      <td align="left">
-        Upcoming Talks
-      </td>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td>
-        <ul>
-          <li>CEISAL, Paris (June 2-4, 2025). <b>[CANCELED]</b>.</li>
-       </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
 
 <!---
 

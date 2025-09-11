@@ -29,11 +29,13 @@ redirect_from:
 
 ## In Preparation
 
-- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Creating Political Support for Tax Increases: A Vignette Experiment in Chile and Estonia." **Writting process** (May 2024).
 
-- Hector Bahamonde and Aki Koivula. "Far-right Support in Finland: Bringing Income Inequality Back." **Writing process in progress** (May 2024).
+- Hector Bahamonde and Andrea Canales. "Vote-Selling and Vote-Buying: Does The House Always Win? Gambling Votes in the Lab." **Writting process**.
 
-- Hector Bahamonde, Heikki Kaupi, Igor Kovac and Wilma Nissila. "Not Just Guns or Butter, but What Came First—Guns or Butter? Introducing GVAR to International Relations." <br/> [[Abstract]](https://github.com/hbahamonde/Bahamonde_Kovac/raw/master/abstract.txt)
+- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Creating Political Support for Tax Increases: A Vignette Experiment in Chile and Estonia." **Writting process**.
+
+- Hector Bahamonde and Aki Koivula. "Far-right Support in Finland: Bringing Income Inequality Back." **Writting process**.
+
 
 - Hector Bahamonde. "Illiberal Democrats: The 2016 United States Presidential Election as a Critical Juncture, a Conjoint Experiment." <br/> [[Abstract]](http://www.hectorbahamonde.com)
 

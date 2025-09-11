@@ -1,0 +1,18 @@
+/* Put main content before the author sidebar on small/medium screens */
+@media (max-width: 1280px) {
+  .page .page__content { order: 1; }
+  .page .sidebar      { order: 2; }
+}
+
+/* (Optional) If you prefer to hide the profile on small screens entirely, use this instead:
+@media (max-width: 1280px) { .page .sidebar { display: none !important; } }
+*/
+
+/* Remove tall hero/header padding if any layout injects it */
+.page__hero, .page__hero--overlay { min-height: auto !important; padding: 0.75rem 0 !important; }
+
+/* Trim the big top margin on the first in-body H1 */
+.page__content > h1:first-child { margin-top: 0 !important; }
+
+/* Slightly reduce space under the masthead nav */
+.masthead { margin-bottom: 0.5rem !important; }

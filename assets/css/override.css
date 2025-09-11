@@ -1,18 +1,27 @@
-/* Put main content before the author sidebar on small/medium screens */
-@media (max-width: 1280px) {
-  .page .page__content { order: 1; }
-  .page .sidebar      { order: 2; }
+/* HOME ONLY: keep content first and stop the sidebar from forcing a wrap */
+.page.home-landing .page__inner-wrap {
+  display: flex;
+  flex-wrap: nowrap;          /* don't let the sidebar jump above */
+  align-items: flex-start;
 }
 
-/* (Optional) If you prefer to hide the profile on small screens entirely, use this instead:
-@media (max-width: 1280px) { .page .sidebar { display: none !important; } }
-*/
+/* Make the sidebar a sane width on this page */
+.page.home-landing .sidebar {
+  flex: 0 0 320px;            /* reduce if you like: 280–320px is safe */
+  max-width: 320px;
+}
 
-/* Remove tall hero/header padding if any layout injects it */
-.page__hero, .page__hero--overlay { min-height: auto !important; padding: 0.75rem 0 !important; }
+/* Let the content actually shrink so it doesn't wrap */
+.page.home-landing .page__content {
+  flex: 1 1 auto;
+  min-width: 0;               /* important for nested flex layouts */
+}
 
-/* Trim the big top margin on the first in-body H1 */
-.page__content > h1:first-child { margin-top: 0 !important; }
+/* On smaller screens, put content first and sidebar second */
+@media (max-width: 1200px) {
+  .page.home-landing .page__content { order: 1; }
+  .page.home-landing .sidebar      { order: 2; }
+}
 
-/* Slightly reduce space under the masthead nav */
-.masthead { margin-bottom: 0.5rem !important; }
+/* Trim the top margin of the first heading to pull content up */
+.page.home-landing .page__content > h1:first-child { margin-top: 0; }

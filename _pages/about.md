@@ -11,11 +11,11 @@ redirect_from:
 ---
 
 
+I am a <b>Senior Researcher</b> at the University of Turku, Finland, and I am currently affiliated with the <a href="https://invest.utu.fi">INVEST Research Flagship</a>. I hold the title of <b>Docent in Political Science</b> at the University of Turku. Additionally, I serve as an <b>Associate Editor</b> for the <a href="https://www.springer.com/journal/43545/"><i>SN Social Sciences</i></a> journal, published by Springer Nature.
+
 <a href="http://www.hectorbahamonde.com/">
 <img src="/resources/Profile4.jpeg" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
-
-I am a <b>Senior Researcher</b> at the University of Turku, Finland, and I am currently affiliated with the <a href="https://invest.utu.fi">INVEST Research Flagship</a>. I hold the title of <b>Docent in Political Science</b> at the University of Turku. Additionally, I serve as an <b>Associate Editor</b> for the <a href="https://www.springer.com/journal/43545/"><i>SN Social Sciences</i></a> journal, published by Springer Nature.
 
 
 <p class="lead"> Before joining University of Turku, I was an Assistant Professor (tenure-track) in Chile. Previously, I served as a post-doctoral fellow at Tulane University (New Orleans, LA, U.S.). I received my PhD in Political Science from Rutgers University (New Brunswick, NJ, U.S.) in the spring of 2017.</p> 

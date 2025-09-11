@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching at the University of Turku"
-author_profile: true
+author_profile: false
 redirect_from:
   - /md/
   - /teaching.html

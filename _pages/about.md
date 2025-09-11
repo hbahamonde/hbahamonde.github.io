@@ -21,8 +21,7 @@ I am a <b>Senior Researcher</b> at the University of Turku, Finland, and I am cu
 
 [Download my CV here](http://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)
 
-Research
-=======
+## Research
 
 
 <p class="lead">My primary subfield is the political economy of <b>inequality</b>,  <b>democratic development</b> and <b>clientelism</b>. I also have a strong interest in statistical and experimental methods (lab and survey-based).</p>
@@ -66,8 +65,7 @@ My dissertation argues that sectoral economic conflicts fostered state-building 
 ---
 
 
-Contact
-=======
+## Contact
 
 
 University of Turku, Finland
@@ -85,8 +83,7 @@ www.HectorBahamonde.com
 ---
 
 
-Metrics
-============
+## Metrics
 
 <img src="https://seafile.utu.fi/f/0ab7f436aed04017bdf4/?dl=1" alt="gscholar"  style="width:800px;height:600;;border:0;">
 

@@ -1,7 +1,7 @@
 ---
 permalink: /talks/
 title: "Talks and Presentations"
-author_profile: true
+author_profile: false
 redirect_from:
   - /md/
   - /talks.html

@@ -1,7 +1,7 @@
 ---
 permalink: /media/
 title: "Selected Media Appearances"
-author_profile: true
+author_profile: false
 redirect_from:
   - /md/
   - /media.html

@@ -4,6 +4,7 @@ title: "Welcome"
 excerpt: "About me"
 classes: wide
 author_profile: true
+header:           # ensures no hero header block
 redirect_from:
   - /about/
   - /about.html

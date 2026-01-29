@@ -1,11 +1,18 @@
-/* override.css – load after main.css */
+/* Remove the masthead’s bottom padding */
+.masthead__inner-wrap {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+/* Pull the main container up and prevent margin collapse */
 #main {
   margin-top: 0 !important;
-  padding-top: 1px;            /* any small non‑zero value prevents collapse */
-  border-top: 0 solid transparent;
+  padding-top: 0.5rem;    /* small non‑zero padding breaks margin collapse */
 }
+
+/* Reset the sticky offset for the sidebar */
 @media (min-width: 57.8125em) {
   .sidebar.sticky {
-    top: 0 !important;         /* remove the 2 em sticky offset */
+    top: 0 !important;
   }
 }

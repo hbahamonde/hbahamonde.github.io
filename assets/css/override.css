@@ -1,17 +1,27 @@
-/* Apply to any page with a sidebar */
-.page .page__inner-wrap {
+/* HOME ONLY: keep content first and stop the sidebar from forcing a wrap */
+.page.home-landing .page__inner-wrap {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: nowrap;          /* don't let the sidebar jump above */
   align-items: flex-start;
 }
-.page .sidebar {
-  flex: 0 0 300px;
-  max-width: 300px;
+
+/* Make the sidebar a sane width on this page */
+.page.home-landing .sidebar {
+  flex: 0 0 320px;            /* reduce if you like: 280–320px is safe */
+  max-width: 320px;
 }
-.page .page__content {
+
+/* Let the content actually shrink so it doesn't wrap */
+.page.home-landing .page__content {
   flex: 1 1 auto;
-  min-width: 0;
+  min-width: 0;               /* important for nested flex layouts */
 }
-.page .page__content > h1:first-child {
-  margin-top: 0;
+
+/* On smaller screens, put content first and sidebar second */
+@media (max-width: 1200px) {
+  .page.home-landing .page__content { order: 1; }
+  .page.home-landing .sidebar      { order: 2; }
 }
+
+/* Trim the top margin of the first heading to pull content up */
+.page.home-landing .page__content > h1:first-child { margin-top: 0; }

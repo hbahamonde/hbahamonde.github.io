@@ -1,28 +1,11 @@
-/*
- * Minimal Mistakes override for hectorbahamonde.com
- */
-
-/* Prevent margin collapse and remove top margin on the main wrapper */
+/* override.css – load after main.css */
 #main {
-  margin-top: 0;
-  padding-top: 0.5rem; /* or border-top: 1px solid transparent; */
+  margin-top: 0 !important;
+  padding-top: 1px;            /* any small non‑zero value prevents collapse */
+  border-top: 0 solid transparent;
 }
-
-/* Remove bottom padding on the masthead */
-.masthead__inner-wrap {
-  padding-bottom: 0;
-  margin-bottom: 0;
-}
-
-/* Reset the sticky sidebar offset so the sidebar aligns with the masthead */
 @media (min-width: 57.8125em) {
   .sidebar.sticky {
-    top: 0;
+    top: 0 !important;         /* remove the 2 em sticky offset */
   }
-}
-
-/* Trim the top margin on page titles */
-.page .page__title,
-.archive .page__title {
-  margin-top: 0;
 }

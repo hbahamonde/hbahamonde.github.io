@@ -1,27 +1,27 @@
 /*
  * Minimal Mistakes override for hectorbahamonde.com
- *
- * This simplified stylesheet focuses on eliminating the large
- * vertical gap below the masthead.  It removes the default top
- * margin on the main container, resets the sticky offset on the
- * sidebar, and trims the top margin on page titles.  No other
- * layout changes are made, so the main content width remains
- * controlled by the theme’s default floats.
  */
 
-/* Remove the default 2em margin on the main wrapper */
+/* Prevent margin collapse and remove top margin on the main wrapper */
 #main {
   margin-top: 0;
+  padding-top: 0.5rem; /* or border-top: 1px solid transparent; */
 }
 
-/* Reset the sticky offset so the sidebar aligns with the masthead */
+/* Remove bottom padding on the masthead */
+.masthead__inner-wrap {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+/* Reset the sticky sidebar offset so the sidebar aligns with the masthead */
 @media (min-width: 57.8125em) {
   .sidebar.sticky {
     top: 0;
   }
 }
 
-/* Trim the top margin on page titles (works for .page and .archive) */
+/* Trim the top margin on page titles */
 .page .page__title,
 .archive .page__title {
   margin-top: 0;

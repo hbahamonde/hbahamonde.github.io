@@ -1,55 +1,28 @@
 /*
- * Global CSS overrides for hectorbahamonde.com
+ * Minimal Mistakes override for hectorbahamonde.com
  *
- * This stylesheet corrects two main issues with the default
- * Minimal‑Mistakes theme: excessive vertical spacing between the
- * masthead and page content, and sidebar/content wrapping when the
- * sidebar is wide.  It removes the default top margin on the main
- * content area, resets the sticky offset for the sidebar, and
- * employs a flexbox layout so the sidebar and content stay on the
- * same line at wider screen sizes.  It also constrains the
- * sidebar width and trims the top margin of the first heading.
+ * This simplified stylesheet focuses on eliminating the large
+ * vertical gap below the masthead.  It removes the default top
+ * margin on the main container, resets the sticky offset on the
+ * sidebar, and trims the top margin on page titles.  No other
+ * layout changes are made, so the main content width remains
+ * controlled by the theme’s default floats.
  */
 
-/* Pull the main wrapper up to remove the large gap beneath the masthead */
+/* Remove the default 2em margin on the main wrapper */
 #main {
-  margin-top: 0; /* default is 2em in theme */
+  margin-top: 0;
 }
 
-/* Reduce the sticky sidebar’s offset so it sits flush with the masthead */
+/* Reset the sticky offset so the sidebar aligns with the masthead */
 @media (min-width: 57.8125em) {
   .sidebar.sticky {
-    top: 0; /* default is 2em */
+    top: 0;
   }
 }
 
-/* Use a flexbox layout for pages that include a sidebar */
-.page .page__inner-wrap {
-  display: flex;
-  flex-wrap: nowrap;
-  align-items: flex-start;
-}
-
-/* Constrain the sidebar to a fixed width and prevent it from forcing a wrap */
-.page .sidebar {
-  flex: 0 0 300px;  /* Sidebar width: 300px (adjust as needed) */
-  max-width: 300px;
-  margin-bottom: 0;
-}
-
-/* Allow the main content to shrink and grow within the remaining space */
-.page .page__content {
-  flex: 1 1 auto;
-  min-width: 0; /* important for nested flex layouts */
-}
-
-/* On smaller screens, stack content above the sidebar for better readability */
-@media (max-width: 1200px) {
-  .page .page__content { order: 1; }
-  .page .sidebar      { order: 2; }
-}
-
-/* Trim the top margin of the first heading to further reduce vertical space */
-.page .page__content > h1:first-child {
+/* Trim the top margin on page titles (works for .page and .archive) */
+.page .page__title,
+.archive .page__title {
   margin-top: 0;
 }

@@ -3,7 +3,7 @@ permalink: /
 title: "Welcome"
 excerpt: "About me"
 classes: home-landing
-author_profile: true   # you keep the MM author block
+author_profile: false   # you keep the MM author block
 ---
 
 

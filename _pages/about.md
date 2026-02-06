@@ -42,7 +42,7 @@ I am a <b>Senior Researcher</b> at the University of Turku, Finland, and I am cu
             <a href="https://onlinelibrary.wiley.com/doi/10.1111/pops.12940">Hector Bahamonde and Outi Sarpila (2024). "Physical Appearance and Elections: An Inequality Perspective." Political Psychology, 45.3, pp. 623-642.</a>
             </li>
             <li>
-              Currently I am accepting PhD students.
+              Currently I am NOT accepting PhD students.
             </li>
         </ul>
       </td>

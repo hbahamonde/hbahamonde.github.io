@@ -29,12 +29,11 @@ redirect_from:
 ## In Preparation
 
 
-- Katri Aaltonen, Hector Bahamonde, Mikko Niemelä. [["When Delegation Meets Framing: Experimental Evidence on Mass Preferences over Healthcare Spending.]](https://github.com/hbahamonde/Fimea/blob/main/Fimea_paper.pdf?raw=1). **Writting process**.
+- Katri Aaltonen, Hector Bahamonde, Mikko Niemelä. "[When Delegation Meets Framing: Experimental Evidence on Mass Preferences over Healthcare Spending.](https://github.com/hbahamonde/Fimea/blob/main/Fimea_paper.pdf?raw=1)." **Writting process**.
 
-- Hector Bahamonde and Andrea Canales. [["Vote-Selling and Vote-Buying: Does The House Always Win? Gambling Votes in the Lab."]](https://github.com/hbahamonde/Exp_Vote_Selling/raw/main/Vote_Selling_Bahamonde_Canales_Paper_2.pdf) **Writting process**.
+- Hector Bahamonde and Andrea Canales. "[Vote-Selling and Vote-Buying: Does The House Always Win? Gambling Votes in the Lab](https://github.com/hbahamonde/Exp_Vote_Selling/raw/main/Vote_Selling_Bahamonde_Canales_Paper_2.pdf)." **Writting process**.
 
-- Hector Bahamonde, Andrea Canales, Inga Saikkonen, Mart Trasberg. [["Losers, Delegation, and the Ideological Valence of
-Expertise: Evidence from Finland."]](https://raw.githubusercontent.com/hbahamonde/democratic_backsliding/main/2025/Dem_Backsliding_2.pdf) **Writting process**.
+- Hector Bahamonde, Andrea Canales, Inga Saikkonen, Mart Trasberg. "[Losers, Delegation, and the Ideological Valence of Expertise: Evidence from Finland.](https://raw.githubusercontent.com/hbahamonde/democratic_backsliding/main/2025/Dem_Backsliding_2.pdf)." **Writting process**.
 
 - Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Losers' Consent and Anti-Systemic Protest: Experimental Evidence from Chile and Estonia." **Submitted** (Research and Politics).
 

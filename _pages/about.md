@@ -10,7 +10,7 @@ author_profile: false   # you keep the MM author block
 I am a <b>Senior Researcher</b> at the University of Turku, Finland, and I am currently affiliated with the <a href="https://invest.utu.fi">INVEST Research Flagship</a>. I hold the title of Docent in Political Science at the University of Turku. Additionally, I serve as an Associate Editor for the <a href="https://www.springer.com/journal/43545/"><i>SN Social Sciences</i></a> journal, published by Springer Nature. **Starting 2026 I will be on the Finnish/Nordic job market**.
 
 <a href="http://www.hectorbahamonde.com/">
-<img src="/resources/Profile4.jpeg" alt="me"  style="width:386px;height:330;;border:0;">
+<img src="/images/pic1.png" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
 
 

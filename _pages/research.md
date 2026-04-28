@@ -26,7 +26,7 @@ redirect_from:
 ## Submitted, Under Review, Revise and Resubmit.
 
 
-- Katri Aaltonen, Hector Bahamonde, Mikko Niemelä. "[When Delegation Meets Framing: Experimental Evidence on Mass Preferences over High-Cost Cancer Medicines](https://github.com/hbahamonde/Fimea/blob/main/Fimea_paper.pdf?raw=1)." **Submitted**.
+- Katri Aaltonen, Hector Bahamonde, Mikko Niemelä. "[When Delegation Meets Framing: Experimental Evidence on Mass Preferences over High-Cost Cancer Medicines](https://github.com/hbahamonde/Fimea/blob/main/Fimea_paper.pdf?raw=1)." **Under review (Political Psychology)**.
 
 - Hector Bahamonde and Andrea Canales. "[Vote-Selling and Vote-Buying: Does The House Always Win? Gambling Votes in the Lab](https://github.com/hbahamonde/Exp_Vote_Selling/raw/main/Vote_Selling_Bahamonde_Canales_Paper_2.pdf)." **Submitted**.
 

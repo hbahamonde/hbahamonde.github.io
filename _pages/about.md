@@ -7,14 +7,16 @@ author_profile: false   # you keep the MM author block
 ---
 
 
-I am a <b>Senior Researcher</b> at the University of Turku, Finland, and I am currently affiliated with the <a href="https://invest.utu.fi">INVEST Research Flagship</a>. I hold the title of Docent in Political Science at the University of Turku. Additionally, I serve as an Associate Editor for the <a href="https://www.springer.com/journal/43545/"><i>SN Social Sciences</i></a> journal, published by Springer Nature. **Starting 2026 I will be on the Finnish/Nordic job market**.
+
+I am a <b>Senior Researcher</b> at the <b>University of Turku</b>, Finland, and a <b>Project Researcher</b> at the Social Science Research Institute at <b>Åbo Akademi</b>. I also hold the title of Docent in Political Science at the University of Turku and serve as an Associate Editor for SN Social Sciences, published by Springer Nature. **Starting in 2027, I will be on the Finnish and Nordic job market**.
+
 
 <a href="http://www.hectorbahamonde.com/">
 <img src="/images/pic1.png" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
 
 
-<p class="lead"> Before joining University of Turku, I was an Assistant Professor (tenure-track) in Chile. Previously, I served as a post-doctoral fellow at Tulane University (New Orleans, LA, U.S.). I received my PhD in Political Science from Rutgers University (New Brunswick, NJ, U.S.) in the spring of 2017.</p> 
+<p class="lead"> Before coming to Finland, I was an Assistant Professor (tenure-track) in Chile. Previously, I served as a post-doctoral fellow at Tulane University (New Orleans, LA, U.S.). I received my PhD in Political Science from Rutgers University (New Brunswick, NJ, U.S.) in the spring of 2017.</p> 
 
 [Download my CV here](http://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)
 

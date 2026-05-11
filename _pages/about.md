@@ -8,7 +8,7 @@ author_profile: false   # you keep the MM author block
 
 
 
-I am a <b>Senior Researcher</b> at the <b>University of Turku</b>, Finland, and a <b>Project Researcher</b> at the Social Science Research Institute at <b>Åbo Akademi</b>. I also hold the title of Docent in Political Science at the University of Turku and serve as an Associate Editor for SN Social Sciences, published by Springer Nature. **Starting in 2027, I will be on the Finnish and Nordic job market**.
+I am a <b>Senior Researcher</b> at the <b>University of Turku</b>, Finland, and a <b>Project Researcher</b> at the [The Resilience of Liberal Democracy in Finland (RESLIDE)](https://reslide.fi) project. I also hold the title of Docent in Political Science at the University of Turku and serve as an Associate Editor for SN Social Sciences, published by Springer Nature. **I am on the Finnish and Nordic job markets**.
 
 
 <a href="http://www.hectorbahamonde.com/">

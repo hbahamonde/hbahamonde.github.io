@@ -100,9 +100,9 @@ var addressPoints = [
     29.946611666798276, 
     -90.0637500577194
   ],
-  // AISPE)
+  // ISPE
   [
-    "Bologna, It", // 2019
+    "Bologna, Italy", // ISPE 2019
     44.497150,
     11.354028
   ],
@@ -124,13 +124,13 @@ var addressPoints = [
     -4.242903124728601
   ],
   [
-    "Glasgow, Scotland", // EPSA: 2024 (University of Strathclyde,The Technology and Innovation Centre)
+    "Cologne, Germany", // EPSA: 2024 (KOMED, Cologne)
     50.94876148678886, 
     6.94348770962405
   ],
 // ECPR
   [
-    "Inssbruck, Austria", // ECPR: 2022 (University of Innsbruck)
+    "Innsbruck, Austria", // ECPR: 2022 (University of Innsbruck)
     47.26184826224502, 11.385602383668347
   ],
   // NSA
@@ -185,5 +185,65 @@ var addressPoints = [
   [
     "Paris, France",
       48.84718115126956, 2.35671981985241
+  ],
+
+  // APSA
+  [
+    "San Francisco, USA", // APSA 2020 (virtual/digital convention; originally San Francisco)
+    37.785810,
+    -122.410900
+  ],
+
+  // MPSA
+  [
+    "Chicago, USA", // MPSA: 2018 (Palmer House Hilton; declined)
+    41.880646,
+    -87.627422
+  ],
+
+  // LASA
+  [
+    "San Juan, Puerto Rico", // LASA 2015 (Caribe Hilton; declined)
+    18.462422,
+    -66.085993
+  ],
+  [
+    "Paris, France", // LASA 2026 (Paris Marriott Rive Gauche)
+    48.831228,
+    2.339729
+  ],
+
+  // NOLAN
+  [
+    "Stockholm, Sweden", // NOLAN 2026 (Stockholm University, Nordic Institute of Latin American Studies)
+    59.364945,
+    18.058056
+  ],
+
+  // WPSA
+  [
+    "San Diego, USA", // WPSA 2016 (Manchester Grand Hyatt; declined)
+    32.710152,
+    -117.168404
+  ],
+  [
+    "San Francisco, USA", // WPSA 2018 (Hyatt Regency Embarcadero; declined)
+    37.794207,
+    -122.395562
+  ],
+
+  // SPSA
+  [
+    "San Juan, Puerto Rico", // SPSA 2020 (Caribe Hilton; declined)
+    18.462422,
+    -66.085993
+  ],
+
+  // SISP
+  [
+    "Genoa, Italy", // SISP 2023 (University of Genoa / Albergo dei Poveri)
+    44.414974,
+    8.934793
   ]
+
 ];

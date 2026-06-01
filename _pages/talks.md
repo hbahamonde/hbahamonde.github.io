@@ -19,7 +19,7 @@ I have presented / will be presenting at...
 
 #### European Political Science Association (EPSA)
 - Cologne, Germany: 2024: Panel: Political Economy of Policy Reform.
-- Glasgow, Scotland: 2023: Panel: The many dimension of evaluating candidates.
+- Glasgow, Scotland: 2023: Panel: The many dimensions of evaluating candidates.
 - Prague, Czech Republic: 2022. Panel: Patronage & Accountability.
 
 #### European Consortium for Political Research (ECPR)
@@ -30,6 +30,7 @@ I have presented / will be presenting at...
 
 #### Finnish Political Science Association (FPSA)
 - Rovaniemi, Finland: 2025. Co-Chair and full panel co-organizer.
+- Tampere, Finland: 2026. Co-Chair and full panel co-organizer.
 
 
 #### Nordic Political Science Association Conference (NOPSA)
@@ -37,6 +38,9 @@ I have presented / will be presenting at...
 
 
 #### Nordic Latin American Research Network (NOLAN)
+- Stockholm, Sweden: 2026. Panel: Contested Politics, Everyday Ecologies, and
+Citizen Agency in Latin America: Experimental, Ethnographic, and Historical
+Perspectives. Co-Chair and full panel co-organizer.
 - Copenhagen, Denmark: 2024. Panel: Social Movements, Indigenous Governance, and the State.
 
 #### Consejo Europeo para la Investigación en Ciencias Sociales de América Latina (CEISAL)
@@ -63,6 +67,8 @@ I have presented / will be presenting at...
 
 #### Latin American Studies Association (LASA)
 
+- Paris, France: 2026. Panel: Crises of Representation and New Forms of Mobilization in Latin America (Part I and Part II; full panel organizer).
+
 - Vancouver, Canada: 2023. Panel: Democracy and Political Attitudes in Latin America (full panel organizer).
 
 - San Francisco, CA: 2022. Panel: The Politics of Corruption and Anti-Corruption.
@@ -81,7 +87,7 @@ I have presented / will be presenting at...
 
 #### Italian Political Science Association (SISP)
 
-- Genova, Italy: 2023. Panel: Social Status, Social norms, Public Opinion and Political Behaviour.
+- Genoa, Italy: 2023. Panel: Social Status, Social norms, Public Opinion and Political Behaviour.
 
 
 #### Red de Economía Polītica para América Latina (REPAL)
@@ -120,4 +126,3 @@ I have presented / will be presenting at...
 #### Congreso Red Inter-Americana de Educación en Administración Pública (INPAE)
 
 - Concepción, Chile: 2019.  
-

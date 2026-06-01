@@ -38,6 +38,10 @@ redirect_from:
 
 ## In Preparation
 
+- Hector Bahamonde. "First Impressions under Scarcity: An Economic Conjoint Experiment for Studying Electoral Judgment." **Work in progress**.
+
+- Hector Bahamonde, Inga Saikkonen, Åsa von Schoultz and Janne Tukiainen. "When Misfortunes Change: Reversing Undemocratic Learning in the Lab." **Work in progress**.
+
 - Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Creating Political Support for Tax Increases: A Vignette Experiment in Chile and Estonia." **Work in progress**.
 
 - Hector Bahamonde and Aki Koivula. "Far-right Support in Finland: Bringing Income Inequality Back." **Work in progress**.

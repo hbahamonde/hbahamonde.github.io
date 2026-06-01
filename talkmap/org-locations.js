@@ -181,6 +181,13 @@ var addressPoints = [
       66.48539097049397, 25.715081790899013
   ],
 
+    // FPSA
+  [
+    "Tampere, Finland", // FPSA 2026. Co-Chair and full panel co-organizer.
+    61.497753,
+    23.760954
+  ],
+
   // CEISAL Paris France, CEISAL 2025
   [
     "Paris, France",

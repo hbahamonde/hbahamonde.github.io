@@ -7,3 +7,5 @@ Gemfile.lock
 _includes/.DS_Store
 
 .Rhistory
+
+.DS_Store

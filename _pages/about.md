@@ -11,14 +11,14 @@ author_profile: false   # you keep the MM author block
 I am a <b>Senior Researcher</b> at the <b>University of Turku</b>, Finland, and a <b>Project Researcher</b> at the [The Resilience of Liberal Democracy in Finland (RESLIDE)](https://reslide.fi) project. I also hold the title of Docent in Political Science at the University of Turku and serve as an Associate Editor for SN Social Sciences, published by Springer Nature. **I am on the Finnish and Nordic job markets**.
 
 
-<a href="http://www.hectorbahamonde.com/">
+<a href="https://www.hectorbahamonde.com/">
 <img src="/images/pic1.png" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
 
 
 <p class="lead"> Before coming to Finland, I was an Assistant Professor (tenure-track) in Chile. Previously, I served as a post-doctoral fellow at Tulane University (New Orleans, LA, U.S.). I received my PhD in Political Science from Rutgers University (New Brunswick, NJ, U.S.) in the spring of 2017.</p> 
 
-[Download my CV here](http://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)
+[Download my CV here](https://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)
 
 ## Research
 
@@ -27,30 +27,13 @@ I am a <b>Senior Researcher</b> at the <b>University of Turku</b>, Finland, and 
 
 <p class="lead"> My research is either forthcoming, or has been published in Electoral Studies, Political Psychology, the European Journal of Political Economy, Acta Politica, Journal of Politics in Latin America, among others.</p>
 
-<table>
-  <thead>
-    <tr>
-      <td align="left">
-        NEWS! And latest publication.
-      </td>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td>
-        <ul>
-          <li>
-            <a href="https://onlinelibrary.wiley.com/doi/10.1111/pops.12940">Hector Bahamonde and Outi Sarpila (2024). "Physical Appearance and Elections: An Inequality Perspective." Political Psychology, 45.3, pp. 623-642.</a>
-            </li>
-            <li>
-              Currently I am NOT accepting PhD students.
-            </li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<aside class="academic-callout academic-callout--news" aria-labelledby="latest-news-title">
+  <p class="academic-callout__eyebrow">News &amp; latest publication</p>
+  <h2 id="latest-news-title">Physical Appearance and Elections</h2>
+  <p>With Outi Sarpila, published in <i>Political Psychology</i> 45(3), pp. 623–642.</p>
+  <p><a class="academic-callout__link" href="https://onlinelibrary.wiley.com/doi/10.1111/pops.12940">Read the article</a></p>
+  <p class="academic-callout__note">I am not currently accepting PhD students.</p>
+</aside>
 
 
 <!---
@@ -73,7 +56,7 @@ hector.bahamonde@utu.fi
 
 www.HectorBahamonde.com
 
-[Appointments](http://www.hectorbahamonde.com/resources/)
+[Appointments](https://www.hectorbahamonde.com/resources/)
 
 
 

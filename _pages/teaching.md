@@ -1,20 +1,23 @@
 ---
 permalink: /teaching/
 title: "Teaching at the University of Turku"
-author_profile: false
+author_profile: true
 redirect_from:
   - /md/
   - /teaching.html
 ---
 
-## Current
+<aside class="academic-callout" aria-labelledby="current-course-title">
+  <p class="academic-callout__eyebrow">Current course</p>
+  <h2 id="current-course-title">Experimental Methods in Social Sciences</h2>
+  <p>University of Turku · MA–PhD</p>
+  <p><a class="academic-callout__link" href="https://github.com/hbahamonde/Exp_Soc_Science/raw/main/Bahamonde_Exp_Soc_Sci.pdf"><i class="fa fa-book" aria-hidden="true"></i> View syllabus</a></p>
+</aside>
 
-- Experimental Methods in Social Sciences (University of Turku, MA-PhD). <a href="https://github.com/hbahamonde/Exp_Soc_Science/raw/main/Bahamonde_Exp_Soc_Sci.pdf"><i class='fa fa-book fa'></i></a>
 
 
 
-
-## Previous
+## Previous Courses
 
 1. **Substantive**:
 	- Political Science I: Intro to Comparative Politics (Universidad de O'Higgins).  <a href="https://github.com/hbahamonde/Ciencia_Politica_I/raw/master/Bahamonde_Ciencia_Politica_I.pdf"><i class='fa fa-book fa'></i></a> in Spanish.

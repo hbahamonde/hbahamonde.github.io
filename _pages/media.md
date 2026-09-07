@@ -1,7 +1,7 @@
 ---
 permalink: /media/
 title: "Selected Media Appearances"
-author_profile: false
+author_profile: true
 redirect_from:
   - /md/
   - /media.html
@@ -10,11 +10,10 @@ redirect_from:
 - CNN Chile (May 18th 2022): On the relevance of Finland joining NATO.
 
 <a href="https://x.com/CNNChile/status/1527122195780186112">
-<img src="/resources/cnn.jpg" alt="me"  style="width:386px;height:330;;border:0;">
+<img class="media-thumbnail" src="/resources/cnn.jpg" alt="CNN Chile television segment about Finland joining NATO" loading="lazy">
 </a>
 
 
 - [New York Times](https://www.nytimes.com/2021/08/04/opinion/biden-eviction-covid-democrats.html) (August 4th 2021): "Inclusive Institutions, Unequal Outcomes" [paper](https://www.sciencedirect.com/science/article/pii/S0176268021000471?via%3Dihub).
-
 
 

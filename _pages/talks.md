@@ -1,13 +1,13 @@
 ---
 permalink: /talks/
 title: "Talks and Presentations"
-author_profile: false
+author_profile: true
 redirect_from:
   - /md/
   - /talks.html
 ---
 
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+<iframe class="talk-map" title="Map of talks and presentations" src="/talkmap/map.html" height="700" loading="lazy"></iframe>
 
 
 
@@ -125,4 +125,4 @@ Perspectives. Co-Chair and full panel co-organizer.
 
 #### Congreso Red Inter-Americana de Educación en Administración Pública (INPAE)
 
-- Concepción, Chile: 2019.  
+- Concepción, Chile: 2019.

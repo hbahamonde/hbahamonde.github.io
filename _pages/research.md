@@ -1,11 +1,22 @@
 ---
-title: "Peer-Reviewed Articles"
+title: "Research"
 permalink: /research/
-author_profile: false
+author_profile: true
+section_nav:
+  - title: "Peer-Reviewed Articles"
+    url: "#peer-reviewed"
+  - title: "Under Review"
+    url: "#under-review"
+  - title: "In Preparation"
+    url: "#in-preparation"
+  - title: "Invited Book Reviews"
+    url: "#book-reviews"
 redirect_from:
   - /md/
   - /research.html
 ---
+
+<h2 id="peer-reviewed">Peer-Reviewed Articles</h2>
 
 - Hector Bahamonde and Outi Sarpila (2024). "Physical Appearance and Elections: An Inequality Perspective." *Political Psychology* 45.3, pp. 623-642. <br/> [[Paper]](https://doi.org/10.1111/pops.12940) 
 
@@ -23,7 +34,7 @@ redirect_from:
 - Juan Pablo Luna et al. (2011). "El Secreto de mi Exito: Parte II. Los Caminos a Vaparaiso en 2009." *Revista de Ciencia Política* 31.2, pp. 285-310. <br/> [[Paper]](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf)
 
 
-## Submitted, Under Review, Revise and Resubmit.
+<h2 id="under-review">Submitted, Under Review, and Revise and Resubmit</h2>
 
 
 - Katri Aaltonen, Hector Bahamonde, Mikko Niemelä. "[When Delegation Meets Framing: Experimental Evidence on Mass Preferences over High-Cost Cancer Medicines](https://github.com/hbahamonde/Fimea/blob/main/Fimea_paper.pdf?raw=1)." **Revise and resubmit**.
@@ -31,7 +42,7 @@ redirect_from:
 - Hector Bahamonde and Andrea Canales. "[Vote-Selling and Vote-Buying: Does The House Always Win? Gambling Votes in the Lab](https://github.com/hbahamonde/Exp_Vote_Selling/raw/main/Vote_Selling_Bahamonde_Canales_Paper_2.pdf)." **Under review**.
 
 
-## In Preparation
+<h2 id="in-preparation">In Preparation</h2>
 
 - Hector Bahamonde, Andrea Canales, Inga Saikkonen, Mart Trasberg. "[Losers, Delegation, and the Ideological Valence of Expertise: Evidence from Finland](https://raw.githubusercontent.com/hbahamonde/democratic_backsliding/main/2025/Dem_Backsliding_2.pdf)." **In preparation**.
 
@@ -46,10 +57,10 @@ redirect_from:
 - Hector Bahamonde and Aki Koivula. "Far-right Support in Finland: Bringing Income Inequality Back." **Work in progress**.
 
 
-- Hector Bahamonde. "Illiberal Democrats: The 2016 United States Presidential Election as a Critical Juncture, a Conjoint Experiment." <br/> [[Abstract]](http://www.hectorbahamonde.com)
+- Hector Bahamonde. "Illiberal Democrats: The 2016 United States Presidential Election as a Critical Juncture, a Conjoint Experiment." <br/> [[Abstract]](https://www.hectorbahamonde.com)
 
 
 
-## Invited Book Reviews
+<h2 id="book-reviews">Invited Book Reviews</h2>
 
 - Inés Durán Matute (2019). [Indigenous Peoples and the Geographies of Power: Mezcala's Narratives of Neoliberal Governance](https://doi.org/10.1080/13260219.2019.1671679). **Journal of Iberian and Latin American Research**, Routledge.

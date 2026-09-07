@@ -1,7 +1,7 @@
 ---
 title: "Appointments"
 permalink: /resources/
-author_profile: false
+author_profile: true
 ---
 
 <!-- Calendly inline widget begin -->

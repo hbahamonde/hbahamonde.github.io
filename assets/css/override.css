@@ -1,18 +1,267 @@
-/* Remove the masthead’s bottom padding */
+/*
+ * Site-specific polish for HectorBahamonde.com.
+ * This stylesheet loads after the Minimal Mistakes theme.
+ */
+
+:root {
+  --academic-ink: #2e3438;
+  --academic-muted: #66717a;
+  --academic-rule: #dfe5e8;
+  --academic-accent: #287b91;
+  --academic-accent-dark: #1e6072;
+  --academic-tint: #f4f8f9;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+body {
+  color: var(--academic-ink);
+}
+
 .masthead__inner-wrap {
-  padding-bottom: 0;
+  padding-top: 0.85rem;
+  padding-bottom: 0.85rem;
+}
+
+#main {
+  margin-top: 0 !important;
+  padding-top: 1.5rem;
+}
+
+.page__title {
+  letter-spacing: -0.02em;
+}
+
+.page__content h2 {
+  scroll-margin-top: 1.5rem;
+}
+
+/* Keep prose crisp and book-like without forcing justification on small screens. */
+@media (min-width: 37.5em) {
+  .page__content p,
+  .page__content li,
+  .archive p {
+    text-align: justify;
+    text-justify: inter-word;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+  }
+
+  .page__content .academic-callout p {
+    text-align: left;
+    hyphens: none;
+  }
+}
+
+/* A restrained reusable panel for timely or high-value information. */
+.academic-callout {
+  margin: 0 0 2rem;
+  padding: 1.15rem 1.25rem;
+  border: 1px solid var(--academic-rule);
+  border-left: 4px solid var(--academic-accent);
+  border-radius: 4px;
+  background: var(--academic-tint);
+}
+
+.academic-callout h2 {
+  margin: 0.15rem 0 0.45rem;
+  padding: 0;
+  border: 0;
+  font-size: 1.15rem;
+}
+
+.academic-callout p {
+  margin: 0 0 0.65rem;
+}
+
+.academic-callout p:last-child {
   margin-bottom: 0;
 }
 
-/* Pull the main container up and prevent margin collapse */
-#main {
-  margin-top: 0 !important;
-  padding-top: 0.5rem;    /* small non‑zero padding breaks margin collapse */
+.academic-callout__eyebrow {
+  color: var(--academic-accent-dark);
+  font-size: 0.75rem !important;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
-/* Reset the sticky offset for the sidebar */
+.academic-callout__link {
+  font-weight: 600;
+}
+
+.academic-callout__note {
+  padding-top: 0.7rem;
+  border-top: 1px solid var(--academic-rule);
+  color: var(--academic-muted);
+  font-size: 0.9rem !important;
+}
+
+.media-thumbnail {
+  display: block;
+  width: 100%;
+  max-width: 34rem;
+  height: auto;
+  margin: 0.75rem 0 1.5rem;
+  border-radius: 4px;
+}
+
+.talk-map {
+  width: 100%;
+  max-width: 100%;
+  border: 1px solid var(--academic-rule);
+  border-radius: 4px;
+}
+
+.calendly-inline-widget {
+  width: 100%;
+  min-width: 0 !important;
+}
+
+/* Section links accompany the profile on long pages. */
+.sidebar__section-nav {
+  clear: both;
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--academic-rule);
+}
+
+.sidebar__section-nav-title {
+  margin: 0 0 0.55rem;
+  color: var(--academic-muted);
+  font-size: 0.72rem !important;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.sidebar__section-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sidebar__section-nav li {
+  margin: 0;
+}
+
+.sidebar__section-nav a {
+  display: block;
+  padding: 0.35rem 0.55rem;
+  border: 1px solid var(--academic-rule);
+  border-radius: 3px;
+  color: var(--academic-ink);
+  font-size: 0.78rem;
+  line-height: 1.3;
+  text-decoration: none;
+}
+
+.sidebar__section-nav a:hover,
+.sidebar__section-nav a:focus {
+  border-color: var(--academic-accent);
+  color: var(--academic-accent-dark);
+  background: var(--academic-tint);
+}
+
+/*
+ * The theme's float grid and a former fixed 300px sidebar competed for width.
+ * A two-column grid gives the profile and article explicit, stable columns.
+ */
 @media (min-width: 57.8125em) {
+  #main.main--with-sidebar {
+    display: grid;
+    grid-template-columns: clamp(11.75rem, 18vw, 13.75rem) minmax(0, 53rem);
+    justify-content: center;
+    column-gap: clamp(2rem, 4vw, 4rem);
+    max-width: 78rem;
+    padding-top: 2rem;
+  }
+
+  #main.main--with-sidebar > .sidebar,
+  #main.main--with-sidebar > .page,
+  #main.main--with-sidebar > .archive {
+    float: none;
+    width: auto;
+    min-width: 0;
+    margin: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  #main.main--with-sidebar > .sidebar {
+    grid-column: 1;
+  }
+
+  #main.main--with-sidebar > .page,
+  #main.main--with-sidebar > .archive {
+    grid-column: 2;
+  }
+
   .sidebar.sticky {
-    top: 0 !important;
+    top: 1.5rem !important;
+    align-self: start;
+  }
+
+  .sidebar .author__avatar img {
+    max-width: 10rem;
+    padding: 0;
+    border: 0;
+  }
+
+  .sidebar p,
+  .sidebar li {
+    font-size: 0.83rem;
+  }
+
+  .author__urls a {
+    padding: 0.2rem 0;
+    font-size: inherit;
+  }
+
+  .sidebar__section-nav ul {
+    display: block;
+  }
+
+  .sidebar__section-nav li + li {
+    margin-top: 0.15rem;
+  }
+
+  .sidebar__section-nav a {
+    padding: 0.42rem 0;
+    border: 0;
+    border-radius: 0;
+    color: var(--academic-muted);
+    font-size: 0.8rem;
+  }
+
+  .sidebar__section-nav a:hover,
+  .sidebar__section-nav a:focus {
+    color: var(--academic-accent-dark);
+    background: transparent;
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+  }
+}
+
+@media (max-width: 57.75em) {
+  .sidebar {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--academic-rule);
+  }
+
+  .sidebar__section-nav {
+    margin-top: 1rem;
   }
 }

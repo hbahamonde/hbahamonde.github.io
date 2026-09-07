@@ -3,7 +3,7 @@ permalink: /
 title: "Welcome"
 excerpt: "About me"
 classes: home-landing
-author_profile: false   # you keep the MM author block
+author_profile: true
 ---
 
 
@@ -11,8 +11,8 @@ author_profile: false   # you keep the MM author block
 I am a <b>Senior Researcher</b> at the <b>University of Turku</b>, Finland, and a <b>Project Researcher</b> at the [The Resilience of Liberal Democracy in Finland (RESLIDE)](https://reslide.fi) project. I also hold the title of Docent in Political Science at the University of Turku and serve as an Associate Editor for SN Social Sciences, published by Springer Nature. **I am on the Finnish and Nordic job markets**.
 
 
-<a href="https://www.hectorbahamonde.com/">
-<img src="/images/pic1.png" alt="me"  style="width:386px;height:330;;border:0;">
+<a class="home-portrait" href="https://www.hectorbahamonde.com/" aria-label="Hector Bahamonde homepage">
+<img src="/images/pic1.png" alt="Portrait of Hector Bahamonde">
 </a>
 
 
@@ -44,21 +44,14 @@ Dissertation
 My dissertation argues that sectoral economic conflicts fostered state-building in Latin America. Using fine-grained historical case study comparisons, sectoral outputs from 1900 to the present, panel data and time-series econometric techniques, and a novel earthquake dataset (to measure state capacities), I find that industrial expansion altered the post-colonial political balance, putting heavy pressures for the implementation of tax institutions. In turn, fiscal expansion fostered both political development and economic growth. In my <b>book project</b> I expand these findings.
 -->
 
----
-
-
-## Contact
-
-
-University of Turku, Finland
-
-hector.bahamonde@utu.fi
-
-www.HectorBahamonde.com
-
-[Appointments](https://www.hectorbahamonde.com/resources/)
-
-
+<aside class="academic-callout academic-callout--contact" aria-labelledby="contact-title">
+  <p class="academic-callout__eyebrow">Contact</p>
+  <h2 id="contact-title">Get in touch</h2>
+  <p>University of Turku, Finland</p>
+  <p><a href="mailto:hector.bahamonde@utu.fi">hector.bahamonde@utu.fi</a><br>
+  <a href="https://www.hectorbahamonde.com/">www.HectorBahamonde.com</a></p>
+  <p><a class="academic-callout__link" href="https://www.hectorbahamonde.com/resources/">Schedule an appointment</a></p>
+</aside>
 
 <!---<div>Icons made by <a href="http://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>             is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>-->
 

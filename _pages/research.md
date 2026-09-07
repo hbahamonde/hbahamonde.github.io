@@ -2,19 +2,20 @@
 title: "Research"
 permalink: /research/
 author_profile: true
-section_nav:
-  - title: "Peer-Reviewed Articles"
-    url: "#peer-reviewed"
-  - title: "Under Review"
-    url: "#under-review"
-  - title: "In Preparation"
-    url: "#in-preparation"
-  - title: "Invited Book Reviews"
-    url: "#book-reviews"
 redirect_from:
   - /md/
   - /research.html
 ---
+
+<nav class="page-section-nav" aria-label="Research sections">
+  <p class="page-section-nav__title">On this page</p>
+  <ul>
+    <li><a href="#peer-reviewed">Peer-Reviewed Articles</a></li>
+    <li><a href="#under-review">Under Review</a></li>
+    <li><a href="#in-preparation">In Preparation</a></li>
+    <li><a href="#book-reviews">Invited Book Reviews</a></li>
+  </ul>
+</nav>
 
 <h2 id="peer-reviewed">Peer-Reviewed Articles</h2>
 

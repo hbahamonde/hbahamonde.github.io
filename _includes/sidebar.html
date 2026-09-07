@@ -22,15 +22,5 @@
     {% endif %}
   {% endif %}
 
-  {% if page.section_nav %}
-    <nav class="sidebar__section-nav" aria-label="On this page">
-      <p class="sidebar__section-nav-title">On this page</p>
-      <ul>
-        {% for item in page.section_nav %}
-          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
-  {% endif %}
   </div>
 {% endif %}

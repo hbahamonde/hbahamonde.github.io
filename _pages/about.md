@@ -11,11 +11,6 @@ author_profile: true
 I am a <b>Senior Researcher</b> at the <b>University of Turku</b>, Finland, and a <b>Project Researcher</b> at the [The Resilience of Liberal Democracy in Finland (RESLIDE)](https://reslide.fi) project. I also hold the title of Docent in Political Science at the University of Turku and serve as an Associate Editor for SN Social Sciences, published by Springer Nature. **I am on the Finnish and Nordic job markets**.
 
 
-<a class="home-portrait" href="https://www.hectorbahamonde.com/" aria-label="Hector Bahamonde homepage">
-<img src="/images/pic1.png" alt="Portrait of Hector Bahamonde">
-</a>
-
-
 <p class="lead"> Before coming to Finland, I was an Assistant Professor (tenure-track) in Chile. Previously, I served as a post-doctoral fellow at Tulane University (New Orleans, LA, U.S.). I received my PhD in Political Science from Rutgers University (New Brunswick, NJ, U.S.) in the spring of 2017.</p> 
 
 [Download my CV here](https://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)

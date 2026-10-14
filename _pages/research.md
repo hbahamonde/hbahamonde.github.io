@@ -45,13 +45,17 @@ redirect_from:
 
 <h2 id="in-preparation">In Preparation</h2>
 
+- Outi Sarpila and Hector Bahamonde. "[Atypical looks, unequal votes? Gendered electoral inequality in a natural experiment](https://github.com/hbahamonde/Physical/raw/refs/heads/main/Ambiguity/Ambiguity.pdf)." **Work in progress**.
+
+- Nayssa Alejandra Marín Díaz, Andrea Canales and Héctor Bahamonde. "Faces or Facts? Experimental Evidence on Time Pressure, Information Costs, and Gender Bias in Electoral Choice." **Work in progress**. <br/> [[Download latest version]](https://github.com/hbahamonde/elections_colombia/raw/refs/heads/main/conjoint_project/visual_conjoint_design.pdf)
+
 - Hector Bahamonde, Andrea Canales, Inga Saikkonen, Mart Trasberg. "[Losers, Delegation, and the Ideological Valence of Expertise: Evidence from Finland](https://raw.githubusercontent.com/hbahamonde/democratic_backsliding/main/2025/Dem_Backsliding_2.pdf)." **In preparation**.
 
 - Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Losers' Consent and Anti-Systemic Protest: Experimental Evidence from Chile and Estonia." **In preparation**.
  
 - Hector Bahamonde. "First Impressions under Scarcity: An Economic Conjoint Experiment for Studying Electoral Judgment." **Work in progress**.
 
-- Hector Bahamonde, Inga Saikkonen, Åsa von Schoultz and Janne Tukiainen. "When Misfortunes Change: Reversing Undemocratic Learning in the Lab." **Work in progress**.
+- Hector Bahamonde, Inga Saikkonen, Janne Tukiainen and Åsa von Schoultz. "[To Renounce Liberty? A Public-Goods Experiment on (Un)Democratic Reversal](https://github.com/hbahamonde/panel_lab_experiment/blob/main/Undemocratic_Reversals_Paper.pdf?raw=1)." **Work in progress**.
 
 - Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Creating Political Support for Tax Increases: A Vignette Experiment in Chile and Estonia." **Work in progress**.
 

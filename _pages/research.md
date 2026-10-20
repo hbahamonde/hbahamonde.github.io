@@ -38,7 +38,7 @@ redirect_from:
 <h2 id="under-review">Submitted, Under Review, and Revise and Resubmit</h2>
 
 
-- Katri Aaltonen, Hector Bahamonde, Mikko Niemelä. "[When Delegation Meets Framing: Experimental Evidence on Mass Preferences over High-Cost Cancer Medicines](https://github.com/hbahamonde/Fimea/blob/main/Fimea_paper.pdf?raw=1)." **Revise and resubmit**.
+- Katri Aaltonen, Hector Bahamonde, Mikko Niemelä. "[Informational Framing and Public Preferences for Funding High-Cost Cancer Medicines in Finland](https://github.com/hbahamonde/Fimea/blob/main/Fimea_paper.pdf?raw=1)." **Revise and resubmit**.
 
 - Hector Bahamonde and Andrea Canales. "[Vote-Selling and Vote-Buying: Does The House Always Win? Gambling Votes in the Lab](https://github.com/hbahamonde/Exp_Vote_Selling/raw/main/Vote_Selling_Bahamonde_Canales_Paper_2.pdf)." **Under review**.
 

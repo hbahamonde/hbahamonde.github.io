@@ -40,7 +40,7 @@ redirect_from:
 
 - Katri Aaltonen, Hector Bahamonde, Mikko Niemelä. "[Informational Framing and Public Preferences for Funding High-Cost Cancer Medicines in Finland](https://github.com/hbahamonde/Fimea/blob/main/Fimea_paper.pdf?raw=1)." **Revise and resubmit**.
 
-- Hector Bahamonde and Andrea Canales. "[Vote-Selling and Vote-Buying: Does The House Always Win? Gambling Votes in the Lab](https://github.com/hbahamonde/Exp_Vote_Selling/raw/main/Vote_Selling_Bahamonde_Canales_Paper_2.pdf)." **Under review**.
+- Hector Bahamonde and Andrea Canales. "[Who Sets the Price of a Vote? Theory and Experimental Evidence on Vote Buying and Vote Selling](https://github.com/hbahamonde/Exp_Vote_Selling/raw/main/Vote_Selling_Bahamonde_Canales_Paper_3.pdf)." **Submitted** (*Public Choice*).
 
 
 <h2 id="in-preparation">In Preparation</h2>

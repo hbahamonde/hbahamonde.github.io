@@ -38,7 +38,7 @@ redirect_from:
 <h2 id="under-review">Submitted, Under Review, and Revise and Resubmit</h2>
 
 
-- Katri Aaltonen, Hector Bahamonde, Mikko Niemelä. "[Informational Framing and Public Preferences for Funding High-Cost Cancer Medicines in Finland](https://github.com/hbahamonde/Fimea/blob/main/Fimea_paper.pdf?raw=1)." **Revise and resubmit**.
+- Katri Aaltonen, Hector Bahamonde, Mikko Niemelä. "[Informational Framing and Public Preferences for Funding High-Cost Cancer Medicines in Finland](https://github.com/hbahamonde/Fimea/blob/main/Fimea_paper.pdf?raw=1)." **Revise and resubmit** (*Social Science and Medicine*).
 
 - Hector Bahamonde and Andrea Canales. "[Who Sets the Price of a Vote? Theory and Experimental Evidence on Vote Buying and Vote Selling](https://github.com/hbahamonde/Exp_Vote_Selling/raw/main/Vote_Selling_Bahamonde_Canales_Paper_3.pdf)." **Submitted** (*Public Choice*).
 

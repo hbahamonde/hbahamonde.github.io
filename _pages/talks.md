@@ -67,6 +67,8 @@ Perspectives. Co-Chair and full panel co-organizer.
 
 #### Latin American Studies Association (LASA)
 
+- Mexico City, Mexico: 2027. Panel: The Politics of Legibility: Information, Recognition, and Public Judgment in Latin America (Co-Chair and full panel co-organizer).
+
 - Paris, France: 2026. Panel: Crises of Representation and New Forms of Mobilization in Latin America (Part I and Part II; full panel organizer).
 
 - Vancouver, Canada: 2023. Panel: Democracy and Political Attitudes in Latin America (full panel organizer).

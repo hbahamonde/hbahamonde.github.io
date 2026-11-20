@@ -22,6 +22,13 @@ I am a <b>Senior Researcher</b> at the <b>University of Turku</b>, Finland, and 
 
 <p class="lead"> My research is either forthcoming, or has been published in Electoral Studies, Political Psychology, the European Journal of Political Economy, Acta Politica, Journal of Politics in Latin America, among others.</p>
 
+<aside class="academic-callout academic-callout--conferences" aria-labelledby="next-conferences-title">
+  <p class="academic-callout__eyebrow" id="next-conferences-title">Next conferences</p>
+  <ul>
+    <li>LASA, 2027 (Mexico City, Mexico)</li>
+  </ul>
+</aside>
+
 <aside class="academic-callout academic-callout--news" aria-labelledby="latest-news-title">
   <p class="academic-callout__eyebrow">News &amp; latest publication</p>
   <h2 id="latest-news-title">Physical Appearance and Elections</h2>

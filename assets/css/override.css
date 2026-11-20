@@ -96,6 +96,14 @@ body {
   margin-bottom: 0;
 }
 
+.academic-callout ul {
+  margin: 0.35rem 0 0.65rem;
+}
+
+.academic-callout ul:last-child {
+  margin-bottom: 0;
+}
+
 .academic-callout__eyebrow {
   color: var(--academic-accent-dark);
   font-size: 0.75rem !important;

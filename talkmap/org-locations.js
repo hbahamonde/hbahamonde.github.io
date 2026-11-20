@@ -219,6 +219,11 @@ var addressPoints = [
     48.831228,
     2.339729
   ],
+  [
+    "Mexico City, Mexico", // LASA 2027 (UNAM, Facultad de Economía / Unidad de Posgrado)
+    19.332861,
+    -99.184722
+  ],
 
   // NOLAN
   [
